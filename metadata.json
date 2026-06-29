@@ -1,0 +1,8 @@
+{
+  "name": "Nexus - Premium SaaS Landing Page",
+  "description": "A world-class SaaS company website featuring premium animations, micro-interactions, glassmorphism, and a modern dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
